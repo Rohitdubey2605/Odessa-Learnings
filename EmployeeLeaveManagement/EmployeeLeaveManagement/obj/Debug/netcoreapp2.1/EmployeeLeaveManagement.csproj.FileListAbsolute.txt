@@ -1,0 +1,9 @@
+C:\Users\rohit.dubey\Documents\Visual Studio 2017\Projects\EmployeeLeaveManagement\EmployeeLeaveManagement\bin\Debug\netcoreapp2.1\EmployeeLeaveManagement.deps.json
+C:\Users\rohit.dubey\Documents\Visual Studio 2017\Projects\EmployeeLeaveManagement\EmployeeLeaveManagement\bin\Debug\netcoreapp2.1\EmployeeLeaveManagement.dll
+C:\Users\rohit.dubey\Documents\Visual Studio 2017\Projects\EmployeeLeaveManagement\EmployeeLeaveManagement\bin\Debug\netcoreapp2.1\EmployeeLeaveManagement.pdb
+C:\Users\rohit.dubey\Documents\Visual Studio 2017\Projects\EmployeeLeaveManagement\EmployeeLeaveManagement\obj\Debug\netcoreapp2.1\EmployeeLeaveManagement.csprojAssemblyReference.cache
+C:\Users\rohit.dubey\Documents\Visual Studio 2017\Projects\EmployeeLeaveManagement\EmployeeLeaveManagement\obj\Debug\netcoreapp2.1\EmployeeLeaveManagement.csproj.CoreCompileInputs.cache
+C:\Users\rohit.dubey\Documents\Visual Studio 2017\Projects\EmployeeLeaveManagement\EmployeeLeaveManagement\obj\Debug\netcoreapp2.1\EmployeeLeaveManagement.AssemblyInfoInputs.cache
+C:\Users\rohit.dubey\Documents\Visual Studio 2017\Projects\EmployeeLeaveManagement\EmployeeLeaveManagement\obj\Debug\netcoreapp2.1\EmployeeLeaveManagement.AssemblyInfo.cs
+C:\Users\rohit.dubey\Documents\Visual Studio 2017\Projects\EmployeeLeaveManagement\EmployeeLeaveManagement\obj\Debug\netcoreapp2.1\EmployeeLeaveManagement.dll
+C:\Users\rohit.dubey\Documents\Visual Studio 2017\Projects\EmployeeLeaveManagement\EmployeeLeaveManagement\obj\Debug\netcoreapp2.1\EmployeeLeaveManagement.pdb
